@@ -5,4 +5,4 @@ This programming language is in development. But you can see what I'm doing with
 
 
 
--------------------------------------------LANGUAGE IS IN THE STAGE OF DEVELOPMENT! FURTHER DESCRIPTION WILL BE ADDED AFTER WORKS FINISH!------------------------------------------
+                      -LANGUAGE IS IN THE STAGE OF DEVELOPMENT! FURTHER DESCRIPTION WILL BE ADDED AFTER WORKS FINISH!-
